@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: bootcamp
+    database: dataexpert_student
+    schema: bootcamp
+    tables:
+      - name: js_raw_orders
+      - name: js_raw_payments
+      - name: js_raw_customers
+
+      - name: incremental_example_raw_orders

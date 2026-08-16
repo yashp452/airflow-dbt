@@ -1,0 +1,5 @@
+pyspark==3.5.0
+databricks-connect==15.4.0
+requests_mock
+chispa
+pytest
